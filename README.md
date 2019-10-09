@@ -2,6 +2,7 @@
 
 # Motivation
 WeatherApiTest is an acamedic project carried out for the purpose of practical learning of software testing at component level.
+
 The aim of the project is to implement and test the API provided by openweathermap.org
 
 # Build status
