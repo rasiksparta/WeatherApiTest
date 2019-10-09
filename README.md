@@ -6,6 +6,7 @@ The aim of the project is to implement and test the API provided by openweatherm
 
 # Build status
 Status: Passed recent tests
+
 Coverage: Unquantified
 
 # Code style
