@@ -1,0 +1,12 @@
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe.config
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.pdb
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\bin\Debug\RestSharp.dll
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\bin\Debug\RestSharp.xml
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.CopyComplete
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.exe
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.pdb
+C:\Users\Rasik Rana\Desktop\csharp\week9\weatherapi\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csprojAssemblyReference.cache
